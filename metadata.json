@@ -1,0 +1,6 @@
+{
+  "name": "Katalog Galeri Undangan - UD REZ WAN JAYA",
+  "description": "Katalog digital blangko undangan pernikahan interaktif dari UD REZ WAN JAYA dengan sinkronisasi real-time Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
